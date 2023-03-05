@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #562EFF;
+}
+main{
+    max-width: 870px;
+}
+body{
+    background-color: #3F1FFF;
+}
+.brand-logo{
+    height: 51px;
+    width: 40.42px;
+}
+.top-player{
+    background-color:#FFFFFF ;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
